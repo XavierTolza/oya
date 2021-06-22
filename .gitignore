@@ -1,0 +1,4 @@
+*.FCStd*
+!*.FCStd
+*.gcode
+*.stl
