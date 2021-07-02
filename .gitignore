@@ -2,3 +2,4 @@
 !*.FCStd
 *.gcode
 *.stl
+.idea
